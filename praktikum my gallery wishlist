@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <title>My Gallery Wishlist</title>
+    </head>
+    
+    <body>
+        <header>
+            <h1>Selamat datang di my gallery wishlist</h1>
+        </header>
+        <section>
+            <h2> Profile Pembuat</h2>
+            <li>Nama: Bintang Ramadhan Fadilah</li>
+            <li>Email: rbintang206@gmail.com</li>
+            <li>Linkedln:Bintang Ramadhan Fadilah</li>
+        </section>
+        
+        <section>
+            <h2>Deskripsi My Gallery Wishlist</h2>
+            <td> Negara swiss merupakan negara terbersih dan terindah. mungkin orang-orang biasa menyebutnya dengan surga nya dunia. Di kenal dengan keindahan negara nya, tentu nya biaya hidup di swiss terbilang tinggi (sangat mahal). Tidak hanya biaya hidup nya yang mahal, tapi gaji nya pun juga bisa mencapai Rp.97,7 juta perbulan. Keamanan negara swiss tidak dapat di ragukan lagi, bahkan masuk peringkat dunia negara paling aman urutan ke-7. Ada beberapa keunggulan dari swiss yaitu di bidang teknologi, sistem penelitian negara, modal ekonomi dan SDM-nya. Berikut daftar kota-kota terindah yang ada di swiss</td>
+        </section>
+        
+        <section>
+            <h2>Foto Kota Favorit</h2>
+        </section>
+        <img src="kapellbruecke-wasserturm-sehenswuerdigkeit-luzern_1 (1).jpg" alt="jpg" width="150" height="100"<img/>
+        <img src="Bern_luftaufnahme.png" alt="jpg" width="150" height="100"<img/>
+        <img src="52892_Screenshot-2023-05-10-163244.png" alt="jpg" width="150" height="100"<img/>
+        <img src="zermatt-switzerland-ski_SKITOWN0123-d00d8a14cca64f148d108b799b8b2027.jpg" alt="jpg" width="150" height="100"<img/>
+        <img src="Amber-Bar_klein-6192x3294.jpg" alt="jpg" width="150" height="100"<img/>
+        <img src="zurich-2526618_640.jpg" alt="jpg" width="150" height="100"<img/>
+        
+        <style>table, th, td {border:1px solid black;}
+        </style>
+        
+        <!-- Tables -->
+        <table>
+            <tr>
+                <th>Nama Kota</th>
+                <th>Icon Kota</th>
+                <th>Jumlah Penduduk</th>
+                <th>Keunikan</th>
+            </tr>
+            <tr>
+                <td>Zürich</td>
+                <td>Geneva</td>
+                <td>434.008 jiwa</td>
+                <td>Kota Zurich sudah ada sejak 2000 tahun lalu</td>
+            </tr>
+            <tr>
+                <td>Luzern</td>
+                <td>Jembatan Chapel</td>
+                <td>57.890 jiwa</td>
+                <td>Sebagai destinasi wisata terkenal</td>
+            </tr>
+            <tr>
+                <td>Bern</td>
+                <td>Sungai aare</td>
+                <td>130.000 jiwa</td>
+                <td>Bern merupakan kota terbesar ke-4 di Swiss</td>
+            </tr>
+            <tr>
+                <td>Interlaken</td>
+                <td>Grindelwald first</td>
+                <td>5.319 jiwa</td>
+                <td>Memiliki 2 stasiun kereta api</td>
+            </tr>
+            <tr>
+                <td>Zermat</td>
+                <td>Ski and snowboard</td>
+                <td>5.775 jiwa</td>
+                <td>merupakan kota bebas kendaraan bermotor</td>
+            </tr>
+            <tr>
+                <td>Basel</td>
+                <td>Rathaus</td>
+                <td>171.017 jiwa</td>
+                <td>Merupakan kota terbesar ke 3 di swiss</td>
+            </tr>
+                </body>
+                </html>
