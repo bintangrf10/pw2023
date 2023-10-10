@@ -24,12 +24,13 @@
         <section>
             <h2>Foto Kota Favorit</h2>
         </section>
-        <img src="kapellbruecke-wasserturm-sehenswuerdigkeit-luzern_1 (1).jpg" alt="jpg" width="150" height="100"<img/>
-        <img src="Bern_luftaufnahme.png" alt="jpg" width="150" height="100"<img/>
-        <img src="52892_Screenshot-2023-05-10-163244.png" alt="jpg" width="150" height="100"<img/>
-        <img src="zermatt-switzerland-ski_SKITOWN0123-d00d8a14cca64f148d108b799b8b2027.jpg" alt="jpg" width="150" height="100"<img/>
-        <img src="Amber-Bar_klein-6192x3294.jpg" alt="jpg" width="150" height="100"<img/>
-        <img src="zurich-2526618_640.jpg" alt="jpg" width="150" height="100"<img/>
+        <table>
+        <th><img src="kapellbruecke-wasserturm-sehenswuerdigkeit-luzern_1 (1).jpg" alt="jpg" width="150" height="100"<img/></th>
+        <th><img src="Bern_luftaufnahme.png" alt="jpg" width="150" height="100"<img/></th>
+        <th><img src="52892_Screenshot-2023-05-10-163244.png" alt="jpg" width="150" height="100"<img/></th>
+        <th><img src="zermatt-switzerland-ski_SKITOWN0123-d00d8a14cca64f148d108b799b8b2027.jpg" alt="jpg" width="150" height="100"<img/></th>
+        <th><img src="Amber-Bar_klein-6192x3294.jpg" alt="jpg" width="150" height="100"<img/></th>
+        <th><img src="zurich-2526618_640.jpg" alt="jpg" width="150" height="100"<img/></th></table>
         
         <style>table, th, td {border:1px solid black;}
         </style>
